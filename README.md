@@ -4,7 +4,7 @@ The following are the instructions to run the application.
 1. Clone the repository
 
 ```
-
+https://github.com/quzhetao01/govtechCFT.git
 ```
 
 2. Navigate to the client folder
@@ -45,3 +45,17 @@ python server.py
 ```
 
 9. Have fun using the application!
+
+For testing:
+
+1. Navigate to the tests folder from the root directory
+
+```
+cd tests
+```
+
+2. Run the test
+
+```
+pytest
+```
